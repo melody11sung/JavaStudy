@@ -1,3 +1,3 @@
 # JavaStudy
 
-# Studying Programming in Java
+## Studying Programming in Java
